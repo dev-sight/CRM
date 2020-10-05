@@ -1,0 +1,16 @@
+
+.welcome {
+font-family: 'Montserrat', serif;
+font-size: 25px;
+background-color:#e8ffc1;
+padding-left:15px;
+padding-bottom: 8px;
+}
+.table1 , .table2 {
+font-family: 'Montserrat', sans-serif;
+padding-top: 3%;
+}
+.table3 {
+font-family: 'Montserrat', sans-serif;
+  padding-top: 10%;
+}
